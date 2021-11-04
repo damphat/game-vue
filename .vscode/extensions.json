@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "johnsoncodehk.volar",
+    "dbaeumer.vscode-eslint",
+    "rvest.vs-code-prettier-eslint"
+  ],
+  "unwantedRecommendations": ["octref.vetur"]
+}
